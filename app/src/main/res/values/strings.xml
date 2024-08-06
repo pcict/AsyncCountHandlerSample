@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AsyncNonSample</string>
+    <string name="btn_sync">同期</string>
+    <string name="btn_async">非同期</string>
+</resources>
